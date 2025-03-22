@@ -24,4 +24,4 @@ This project analyzes the manufacturing performance of an FMCG production unit u
 - Integrate real-time data with **SQL & Python**.
 - Implement **AI-driven predictive analytics**.
 
-🔗 **Connect with me on www.linkedin.com/in/diyadalu if you have any questions or feedback! 🚀
+🔗 **Connect with me on www.linkedin.com/in/diyadalui if you have any questions or feedback! 🚀
